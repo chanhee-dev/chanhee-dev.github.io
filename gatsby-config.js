@@ -58,6 +58,17 @@ module.exports = {
     //   },
     // },
     {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          'G-BF787Z4MC5'
+        ],
+        pluginConfig: {
+          head: true
+        }
+      }
+    },
+    {
       resolve: `gatsby-plugin-feed`,
       options: {
         query: `
