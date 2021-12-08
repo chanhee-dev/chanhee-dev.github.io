@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Chanhee's Dev Blog`,
     author: {
-      name: `Chanhee Kim`,
-      summary: `Who lives and works in korea working in Hancom Group.`,
+      name: `Kim Chanhee`,
+      summary: `데이터 시각화 전문 프론트엔드 개발자를 꿈꾸고 있습니다.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Chanhee's Dev Blog`,
+    siteUrl: `https://chanhee-dev.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      github: `chanhee-dev`,
     },
   },
   plugins: [
